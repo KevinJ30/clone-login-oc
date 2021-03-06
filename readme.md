@@ -1,7 +1,5 @@
 # Clone de la page login du site OpenClassrooms
 
-## Description
-
 Réalisation d'une copie de la page de connection d'openclassrooms dans le cadre de la formation Développeur d'application Front-end. 
 Pour réaliser cette intégration HTML/CSS j'utilise le pré-processeur SASS, ce qui me permet de créer des mixins et des fonctions pour aller plus vite.
 Je prête aussi une énorme intention sur l'accessibilité de la page compléte. 

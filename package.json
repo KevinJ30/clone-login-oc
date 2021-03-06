@@ -1,0 +1,20 @@
+{
+  "name": "clone_oc",
+  "version": "1.0.0",
+  "description": "Réalisation d'une copie de la page de connection d'openclassrooms dans le cadre de la formation Développeur d'application Front-end. \r Pour réaliser cette intégration HTML/CSS j'utilise le pré-processeur SASS, ce qui me permet de créer des mixins et des fonctions pour aller plus vite.\r Je prête aussi une énorme intention sur l'accessibilité de la page compléte.",
+  "main": "index.js",
+  "scripts": {
+    "css-dev-watch" : "sass assets/sass/app.scss css/app.css --watch",
+    "css-compile": "sass assets/sass/app.scss css/app.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinJ30/clone-login-oc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinJ30/clone-login-oc/issues"
+  },
+  "homepage": "https://github.com/KevinJ30/clone-login-oc#readme"
+}
